@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+runs/
+*.pt
+*.onnx
+*.engine
+*.mp4
+*.avi
+dataset/
+legacy-reference/
